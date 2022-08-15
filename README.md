@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**Error-0x8007054f/Error-0x8007054f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rickroll 
 
-Here are some ideas to get you started:
+Rickrolling or a Rickroll, is an internet meme involving the unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up", performed by the English singer Rick Astley. The video has over 1 billion views on YouTube. [Wikipedia](https://wikipedia.org/wiki/Rickrolling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Deployment
+
+To deploy this project run
+
+```html
+
+Never gonna give you up
+
+Never gonna let you down
+
+Never gonna run around, and desert you
+
+```
+
+## Installation
+
+Install Rickroll with npm
+
+```html
+
+Never gonna make you cry
+
+Never gonna say goodbye
+
+Never gonna tell a lie, and hurt you
+
+```
+
+    
+
+
+
+<!-- HTTP 401 -->
